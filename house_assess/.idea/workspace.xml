@@ -18,8 +18,8 @@
       <file leaf-file-name="house_assess.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/house_assess.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="72" lean-forward="true" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+            <state relative-caret-position="33">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding>
                 <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
@@ -44,8 +44,8 @@
       <file leaf-file-name="select.page.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/select.page.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="22" />
+            <state relative-caret-position="1891">
+              <caret line="196" column="86" lean-forward="true" selection-start-line="196" selection-start-column="7" selection-end-line="196" selection-end-column="86" />
               <folding />
             </state>
           </provider>
@@ -61,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assess.page.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="assess.page.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/assess.page.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="161" column="34" lean-forward="true" selection-start-line="161" selection-start-column="34" selection-end-line="161" selection-end-column="34" />
+            <state relative-caret-position="-8">
+              <caret line="127" column="14" lean-forward="false" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -106,9 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tempImgObj</find>
-      <find>.select_page .search-history .search-result li</find>
-      <find>history-clear</find>
       <find>localStorage.row_id</find>
       <find>images</find>
       <find>.result_page .footer</find>
@@ -120,7 +117,6 @@
       <find>console.log</find>
       <find>$(&quot;#plot-list&quot;).html(TEMP_HTML);</find>
       <find>查看更多</find>
-      <find>row_id</find>
       <find>img</find>
       <find>killRepeat</find>
       <find>plot_name</find>
@@ -134,8 +130,12 @@
       <find>row</find>
       <find>API_CONFIG</find>
       <find>ajaxRequestAssess</find>
-      <find>console</find>
       <find>.assess_page input</find>
+      <find>key</find>
+      <find>alert</find>
+      <find>sessionStorage</find>
+      <find>row_id</find>
+      <find>console</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -148,12 +148,12 @@
         <option value="$PROJECT_DIR$/js/UI.js" />
         <option value="$PROJECT_DIR$/select_plot.html" />
         <option value="$PROJECT_DIR$/result.html" />
-        <option value="$PROJECT_DIR$/js/select.page.js" />
         <option value="$PROJECT_DIR$/assess_result.html" />
         <option value="$PROJECT_DIR$/js/result.page.js" />
         <option value="$PROJECT_DIR$/house_assess.html" />
-        <option value="$PROJECT_DIR$/js/assess.page.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/select.page.js" />
+        <option value="$PROJECT_DIR$/js/assess.page.js" />
       </list>
     </option>
   </component>
@@ -351,12 +351,12 @@
       <workItem from="1509583467880" duration="30713000" />
       <workItem from="1509669800314" duration="17623000" />
       <workItem from="1509928478321" duration="13078000" />
-      <workItem from="1510535474163" duration="7040000" />
+      <workItem from="1510535474163" duration="8978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96316000" />
+    <option name="totallyTimeSpent" value="98254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
@@ -590,40 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/select.page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/select_plot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/assess.page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="161" column="34" lean-forward="true" selection-start-line="161" selection-start-column="34" selection-end-line="161" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/house_assess.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="72" lean-forward="true" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
-          <folding>
-            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assess_result.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -641,6 +607,40 @@
             <element signature="e#25211#25367#0" expanded="false" />
             <element signature="e#25524#25557#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/select_plot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house_assess.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/select.page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1891">
+          <caret line="196" column="86" lean-forward="true" selection-start-line="196" selection-start-column="7" selection-end-line="196" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/assess.page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="127" column="14" lean-forward="false" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>

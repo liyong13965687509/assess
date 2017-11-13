@@ -125,10 +125,6 @@ AssessPage.prototype.lookAssess=function(){
                 assessMessage = "请输入面积";
             } else if ($('#room').val().trim() == "") {
                 assessMessage = "请输入几室";
-            } else if ($('#hall').val().trim() == "") {
-                assessMessage = "请输入几厅";
-            } else if ($('#who').val().trim() == "") {
-                assessMessage = "请输入几卫";
             } else {
                 result = true;
             }

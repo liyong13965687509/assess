@@ -194,6 +194,7 @@ SelectPage.prototype.selected = function () {
             plot_name: $(this).html().trim(),
             row_id: $(this).parent("li").attr("data-value").trim()
         };
+        localStorage.setItem('row_id',$(this).parent("li").attr("data-value").trim());
 
         //去重 更新数组
         _this.killRepeat(plot);
